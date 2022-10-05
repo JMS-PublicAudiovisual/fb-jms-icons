@@ -1,0 +1,18 @@
+{
+"name":"Fileball JMS Icon", 
+"description":"By GuangDian, for own use", 
+"icons":
+    [
+        {"name":"hhy.png", "url":"https://raw.githubusercontent.com/JMS-PublicAudiovisual/fb-jms-icons/main/icon/hhy.png"},
+        {"name":"jms.png", "url":"https://raw.githubusercontent.com/JMS-PublicAudiovisual/fb-jms-icons/main/icon/jms.png"},
+        {"name":"jms1.png", "url":"https://raw.githubusercontent.com/JMS-PublicAudiovisual/fb-jms-icons/main/icon/jms1.png"},      
+        {"name":"jms2.png", "url":"https://raw.githubusercontent.com/JMS-PublicAudiovisual/fb-jms-icons/main/icon/jms2.png"},
+        {"name":"jms3.png", "url":"https://raw.githubusercontent.com/JMS-PublicAudiovisual/fb-jms-icons/main/icon/jms3.png"},   
+        {"name":"ss.png", "url":"https://raw.githubusercontent.com/JMS-PublicAudiovisual/fb-jms-icons/main/icon/ss.png"},
+        {"name":"skd.png", "url":"https://raw.githubusercontent.com/JMS-PublicAudiovisual/fb-jms-icons/main/icon/skd.png"},
+        {"name":"gou.png", "url":"https://raw.githubusercontent.com/JMS-PublicAudiovisual/fb-jms-icons/main/icon/gou.png"},
+        {"name":"ydy.png", "url":"https://raw.githubusercontent.com/JMS-PublicAudiovisual/fb-jms-icons/main/icon/ydy.png"},
+        {"name":"ydy1.png", "url":"https://raw.githubusercontent.com/JMS-PublicAudiovisual/fb-jms-icons/main/icon/ydy1.png"},
+        {"name":"eou.png", "url":"https://raw.githubusercontent.com/JMS-PublicAudiovisual/fb-jms-icons/main/icon/eou.png"},
+    ]
+}
