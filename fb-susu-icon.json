@@ -1,0 +1,10 @@
+{
+"name":"Fileball Susu Icon", 
+"description":"By Gd, for susu use", 
+"icons":
+    [
+        {"name":"stark.png", "url":"https://raw.githubusercontent.com/JMS-PublicAudiovisual/fb-jms-icons/main/icon/stark.png"},
+        {"name":"mx.png", "url":"https://raw.githubusercontent.com/JMS-PublicAudiovisual/fb-jms-icons/main/icon/mx.png"},
+
+    ]
+}
